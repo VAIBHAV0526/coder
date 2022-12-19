@@ -123,7 +123,7 @@ int main() {
     {
         ans[i]++;
         marked++;
-        t++;
+
   
     }
 //    long long marked = accumulate(ans.begin(), ans.end(), 0);
